@@ -64,4 +64,5 @@ switch (nu) {
                 }
 ```
 ## 实验截图
+![image](https://github.com/zhangxinyu2019310185/EXP5/blob/main/1.png)
 ## 实验感想
